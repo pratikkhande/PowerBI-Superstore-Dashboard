@@ -21,10 +21,10 @@ across products, countries, segments and time (Sep 2013 – Dec 2014), using the
 - Data modelling in Power BI
 
 ## Screenshots
-![Index](screenshots/1_index.png)
-![Sales Report](screenshots/2_sales_report.png)
-![Profit Report](screenshots/3_profit_report.png)
-![Units Sold Report](screenshots/4_units_sold_report.png)
+![Index](screenshots/1_index.png.png)
+![Sales Report](screenshots/2_sales_report.png.png)
+![Profit Report](screenshots/3_profit_report.png.png)
+![Units Sold Report](screenshots/4_units_sold_report.png.png)
 
 ## How to Open
 Download `PowerBI_Dashboard.pbix` and open it in Power BI Desktop.
